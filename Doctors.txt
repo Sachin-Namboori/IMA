@@ -1,0 +1,5 @@
+
+Doctor Name:
+Doctor Qualification:
+Salary:
+
