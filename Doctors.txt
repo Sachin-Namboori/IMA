@@ -1,5 +1,5 @@
 
-Doctor Name:
-Doctor Qualification:
-Salary:
+Doctor Name:Sampat
+Doctor Qualification:MBBS
+Salary:500000
 
