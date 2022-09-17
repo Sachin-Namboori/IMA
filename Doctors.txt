@@ -1,8 +1,7 @@
-
 Doctor Name:Sampat
 Doctor Qualification:MBBS
 Salary:500000
 Spcilization: Neuro Surgeon
 Hospital: Manipal
 Address: Old Airport Road
-Experience: 15 years
+Date of appointment: Mon-Tue-Wed
