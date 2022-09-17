@@ -2,4 +2,5 @@
 Doctor Name:Sampat
 Doctor Qualification:MBBS
 Salary:500000
-
+Spcilization: Neuro Surgeon
+Hospital: Manipal
